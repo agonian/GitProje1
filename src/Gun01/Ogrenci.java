@@ -6,6 +6,7 @@ public class Ogrenci {
         a= 19;
         String[] denemeCumle = "yusuf.yilmaz@gmail.com".split(",");
         String git = "add/commit/remote/push";
+        String git2 = "add commit push";
 
     }
 
